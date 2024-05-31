@@ -11,6 +11,9 @@ Construido con Laravel 11.
 Seguir los pasos de https://laravel.com/docs/11.x/installation
 
 Se adjunta el csv para pruebas, se utilizo POSTMAN como entorno.
+
+Se utilizo Passport para la proteccion de las rutas. https://laravel.com/docs/11.x/passport
+
 <h2>Documentacion rutas</h2>
 
         POST /api/register
